@@ -133,7 +133,7 @@
       padding-left: 1em;
       padding-right: 1em;
 
-      @include breakpoint($x-large) {
+      @include breakpoint($large) { // $x-large
         max-width: $large; // $x-large;
       }
     }

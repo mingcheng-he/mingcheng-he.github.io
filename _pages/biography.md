@@ -36,9 +36,9 @@ He is currently a PostDoctoral Fellow with the University of Waterloo. His resea
 ## Awards and Honors
 
 <p align="center">
-  <img src="/images/award/wcsp2025_award.jpg" height="210">
-  <img src="/images/award/globecom2024_award.jpg" height="210">
-  <img src="/images/award/4mt2024_award.jpg" height="210">
+  <img src="/images/award/wcsp2025_award.jpg" height="20">
+  <img src="/images/award/globecom2024_award.jpg" height="20">
+  <img src="/images/award/4mt2024_award.jpg" height="20">
 </p>
 
 * Best Paper Award (first author), WCSP 2025.

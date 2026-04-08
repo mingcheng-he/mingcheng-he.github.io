@@ -12,7 +12,6 @@ author_profile: true
 </style>
 
 # Professional Services
-
 ## Technical Program Committee Member for Selected Conferences
 
 * IEEE Global Communications Conference (GLOBECOM) 2026

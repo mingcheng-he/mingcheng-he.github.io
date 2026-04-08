@@ -20,8 +20,8 @@ author_profile: true
 * Network Virtualization and Digital Twin 
 * Artificial Intelligence (AI) for Resource Management
 
-# Publications
 
+# Publications
 ## Books
 
 <ol>

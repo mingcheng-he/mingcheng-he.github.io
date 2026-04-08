@@ -12,7 +12,6 @@ author_profile: true
 </style>
 
 # Teaching Experience
-
 ## Teaching Assistant @ University of Waterloo
 * Fall 2025 - ECE 604 - Stochastic Processes
 

@@ -18,7 +18,7 @@ author_profile: true
 * Satellite-Terrestrial Integrated Networks
 * Intelligent Protocol Design
 * Network Virtualization and Digital Twin 
-* Artificial Intelligence (AI) for Resource Management
+* Artificial Intelligence (AI) for Resource Management<br><br>
 
 
 # Publications

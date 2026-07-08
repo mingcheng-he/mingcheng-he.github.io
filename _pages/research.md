@@ -106,6 +106,7 @@ author_profile: true
   <li>
     <p>
       X. Huang, X. Qin, Y. Zhou, Y. Zhang, <strong>M. He</strong>, J. Li, W. Zhuang, and X. Shen, "Physics-Conditional Diffusion for High-Fidelity Channel Digital Twins in Non-Terrestrial Networks," IEEE/CIC International Conference on Communications in China (ICCC), Wuhan, China, 2026.
+    </p>
   </li>
   <li>
     <p>

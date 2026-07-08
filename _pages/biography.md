@@ -20,7 +20,7 @@ Full CV [Not Available]
 
 ## Short Biography
 Mingcheng He (Member, IEEE) received the B.Sc. and M.Eng. degrees from Shanghai Jiao Tong University, Shanghai, China, in 2017 and 2020, respectively, and the Ph.D. degree in electrical and computer engineering from the University of Waterloo, Waterloo, Ontario, Canada, in 2024.
-He is currently a PostDoctoral Fellow with the University of Waterloo. His research interests include satellite-terrestrial integration networks, network slicing, and artificial intelligence for future wireless networks. He received the Best Paper Awards from the IEEE GLOBECOM 2024, and the IEEE WCSP 2025.
+He is currently a PostDoctoral Fellow with the University of Waterloo. His research interests include space-air-ground integrated networks, low-altitude networking, network virtualization, and artificial intelligence for future wireless networks. He received the Best Paper Awards from the IEEE GLOBECOM 2024, and the IEEE WCSP 2025.
 
 ## Education
 
@@ -52,5 +52,6 @@ He is currently a PostDoctoral Fellow with the University of Waterloo. His resea
 * International Doctoral Student Award, University of Waterloo, 2020 - 2023.
 <!-- * Huawei Graduate Entrance Awards, University of Waterloo, 2020. -->
 * Academic Excellence Scholarship (First-Class), Shanghai Jiao Tong University, 2019.
-* Excellent Graduate of Shanghai Jiao Tong University, 2017.
+* Outstanding Graduate of Shanghai Jiao Tong University, 2017.
+* Excellence for Bachelor's Thesis from SPEIT, Shanghai Jiao Tong University, 2017.
 * Academic Excellence Scholarship (Second-Class), Shanghai Jiao Tong University, 2016

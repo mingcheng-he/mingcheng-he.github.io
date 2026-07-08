@@ -28,8 +28,10 @@ author_profile: true
 * IEEE Journal on Selected Areas in Communications (JSAC)
 * IEEE Transactions on Wireless Communications (TWC)
 * IEEE Transactions on Mobile Computing (TMC)
+* Nature Communications
 * IEEE Transactions on Cognitive Communications and Networking (TCCN)
 * IEEE Transactions on Vehicular Technology (TVT)
+* IEEE Transactions on Aerospace and Electronic Systems (TAES)
 * IEEE Internet of Things Journal (IoTJ)
 * IEEE Open Journal of the Communications Society (OJCOMS)
 * IEEE Communications Magazine

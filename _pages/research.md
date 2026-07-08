@@ -15,10 +15,13 @@ author_profile: true
 
 # Research Interests
 
-* Satellite-Terrestrial Integrated Networks
-* Intelligent Protocol Design
-* Network Virtualization and Digital Twin 
-* Artificial Intelligence (AI) for Resource Management<br><br>
+* Space-Air-Ground Integrated Networks Integrated Networks
+  * Satellite and terrestrial network-assisted low-altitude technology
+  * Network modeling, performance evaluation, intelligent scheduling, and protocol design for large-scale satellite networks
+  * Artificial Intelligence (AI) for multi-dimensional resource management
+* Network Virtualization and Digital Twin
+  * Network slicing design in heterogeneous networks
+  * Data-driven service demand prediction and traffic awareness<br><br>
 
 
 # Publications
@@ -37,7 +40,12 @@ author_profile: true
 <ol>
   <li>
     <p>
-      M. Ouyang, J. Liu, K. Qu, <strong>M. He</strong>, C. Zhou, B. Wang, R. Zhang, and W. Zhuang, "Two-Level ISTN Intelligent Resource Management: Macro Multipath Planning and Micro A3C-Based Scheduling," in IEEE Transactions on Network Science and Engineering, Early Access, 2026.
+      J. Yu, C. Hua, L. Liu, P. Gu, and, <strong>M. He</strong>, "Accurate Beam Tracking for Robust USV-to-Satellite Transmission under Wave Fluctuation," in IEEE Transactions on Wireless Communications, vol. 25, pp. 16320-16335, 2026.
+    </p>
+  </li>
+  <li>
+    <p>
+      M. Ouyang, J. Liu, K. Qu, <strong>M. He</strong>, C. Zhou, B. Wang, R. Zhang, and W. Zhuang, "Two-Level ISTN Intelligent Resource Management: Macro Multipath Planning and Micro A3C-Based Scheduling," in IEEE Transactions on Network Science and Engineering, vol. 13, pp. 8517-8534, 2026.
     </p>
   </li>
   <li>
@@ -95,6 +103,10 @@ author_profile: true
 ## Conference Papers
 
 <ol>
+  <li>
+    <p>
+      X. Huang, X. Qin, Y. Zhou, Y. Zhang, <strong>M. He</strong>, J. Li, W. Zhuang, and X. Shen, "Physics-Conditional Diffusion for High-Fidelity Channel Digital Twins in Non-Terrestrial Networks," IEEE/CIC International Conference on Communications in China (ICCC), Wuhan, China, 2026.
+  </li>
   <li>
     <p>
       Y. Pei, <strong>M. He</strong>, S. Hu, H. Hashida, W. Zhuang, and X. Shen, "Joint Rendering Quality and Encoding Type Selection for Edge-Assisted Extended Reality," IEEE International Conference on Communications (ICC), Glasgow, UK, 2026.

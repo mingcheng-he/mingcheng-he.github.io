@@ -13,7 +13,7 @@ author_profile: true
 
 # Biography
 
-<!-- Full CV [<a href="https://mingcheng-he.github.io/files/Mingcheng_He_CV_EN.pdf" target="_blank" rel="noopener noreferrer">English</a> / <a href="https://mingcheng-he.github.io/files/简历_何铭诚.pdf" target="_blank" rel="noopener noreferrer">Chinese</a>] -->
+<!-- Full CV [<a href="https://mingcheng-he.github.io/files/Mingcheng_He_CV_EN.pdf" target="_blank" rel="noopener noreferrer">English</a> / <a href="https://mingcheng-he.github.io/files/Mingcheng_He_CV.pdf" target="_blank" rel="noopener noreferrer">Chinese</a>] -->
 
 Full CV [Not Available]
 
